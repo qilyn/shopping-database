@@ -1,0 +1,19 @@
+{
+  "name": "online-shopping",
+  "version": "0.0.1",
+  "description": "A shopping database",
+  "main": "index.js",
+  /*"dependencies": {
+    "body-parser": "^1.15.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "mongoskin": "^1.4.1",
+    "pg-native": "^1.10.0"
+  },*/
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
